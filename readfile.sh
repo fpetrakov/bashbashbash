@@ -1,0 +1,2 @@
+content=$(<file)
+echo "$content"
